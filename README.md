@@ -1,4 +1,4 @@
-# Hey there!👋 I'm Emi 
+# 👋 Hey there! I'm Emi 
 
 👨‍💻 Frontend Development Associate Manager *@ [Accenture Song](https://www.accenture.com/ar-es/about/accenture-song-index)*<br>
 💻 Certified FullStack Developer *@ [Digital House](https://www.digitalhouse.com/ar)*<br>
