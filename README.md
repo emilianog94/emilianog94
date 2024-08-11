@@ -1,8 +1,8 @@
 # 👋 Hey there! I'm Emi 
 
-👨‍💻 Freelance Frontend Developer *(Previously on [Accenture Song](https://www.accenture.com/ar-es/about/accenture-song-index)*)<br>
-💻 FullStack Developer *@[Digital House](https://www.digitalhouse.com/ar)*<br>
-🎓 Graphic Design Bachelor's Degree *@[Universidad Argentina de la Empresa](https://uade.edu.ar/)*
+👨‍💻 I am a Freelance Frontend Developer *(Previously on [Accenture Song](https://www.accenture.com/ar-es/about/accenture-song-index)*)<br>
+💻 I studied FullStack Web Development *@[Digital House](https://www.digitalhouse.com/ar)*<br>
+🎓 I have a Graphic Design Bachelor's Degree *@[Universidad Argentina de la Empresa](https://uade.edu.ar/)*
 
 
 ## About me 🤓
