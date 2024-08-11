@@ -66,13 +66,29 @@ In my free time I also enjoy testing my knowledge by creating projects.
 **As of now, I'm working as a Freelance Frontend Developer.**
 
 
-## Public projects 💡
+## Some of my projects 💡
 
-- **[Steamcito 🧉](https://github.com/emilianog94/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos)**: Browser extension i developed as a side project in order to practise Javascript back in 2020. This extension automatically calculates Argentinian taxes and shows the final price on every section of the Steam storefront, among many other features. **It has around 400k weekly users!**
+- **[Steamcito 🧉](https://github.com/emilianog94/Steamcito-Precios-Steam-Argentina-Impuestos-Incluidos)**: Browser extension I developed as a side project in order to practise Javascript back in 2020. This extension automatically calculates Argentinian taxes and shows the final price on every section of the Steam storefront, among many other features. **It has around 400k weekly users!**
+- **[Videojuegos Argentinos 🕹️](https://steamcito.com.ar/videojuegos-argentinos)**: NodeJS web service which periodically collects data from official Steam endpoints and scrapes unmodularized data in order to create a database with all the Steam videogames made in Argentina. After collecting that data, it sends it to a mySQL database and the data gets served on a Laravel instance. 
 - **[VTEX IO Shortcuts](https://github.com/emilianog94/vtex-io-shortcuts)** : Browser extension I developed while i was working as a Frontend Developer on stores running VTEX Store Framework in order to optimise debugging workflows and getting to know VTEX APIs. This extension connects to public VTEX APIs and also creates shortcuts that make debugging on VTEX IO faster and less troublesome.
 - **[Frontloops CSS Challenges](https://github.com/emilianog94/Frontloops---HTML5-CSS3-UI-Challenges)**: 30 HTML5 and CSS3 challenges I made in order to test and improve both my markup and CSS knowledge.
 - **[Catch of the Day](https://github.com/emilianog94/beginner-react)**: React application connected to a Firebase database with social authentication i made while i was learning React. (Wesbos.com - React For Beginners)
 - **[Chally](https://github.com/FrancoFourmantin/LaravelChally)**: Laravel application developed with my group while I was studying Full Stack Development at Digital House
 
 
+## Featured in 💖
+Some of my projects were mentioned and featured by industry specialists and media. You can check some of those mentions here: 
+
+Steamcito 🧉: 
+- [📄 iProUP](https://www.iproup.com/innovacion/48700-asi-se-creo-steamcito-la-extension-que-calcula-el-precio-con-impuestos-de-los-juegos)
+- [📄 InfoNegocios](https://infonegocios.info/plus/emiliano-gioia-el-cerebro-detras-de-steamcito-quien-es-y-como-nacio-esta-extension-que-ya-usan-360-000-gamers-de-argentina)
+- [📄 Yahoo Finance](https://es-us.finanzas.yahoo.com/noticias/videojuegos-mejores-ofertas-verano-steam-120000895.html)
+- [📄 Clarín](https://www.clarin.com/tecnologia/steam-dolariza-precio-videojuegos-argentina-costaran-fecha-limite-comprar-pesos_0_IT41IAkXze.html)
+- [📄 Diario Los Andes](https://www.losandes.com.ar/muy-tecno/utiles-y-gratuitas-7-herramientas-que-no-conocias-y-no-sabias-que-necesitabas/)
+
+---
+
+Videojuegos Argentinos 🕹️: 
+- [📹 Press Over News Podcast](https://www.youtube.com/live/dHhECyCw57s?si=XAlopcJ-QeqeeLol&t=2009)
+- [📹 Zona Liberada - Vorterix](https://www.youtube.com/watch?v=yFOM8YjVMyo&t=3593s)
 
